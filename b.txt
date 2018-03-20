@@ -1,2 +1,2 @@
 branch hotfix
-g
+Hello world.
